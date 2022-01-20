@@ -11,10 +11,10 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="Welcome to Simeus Technology !" />
+        <p className="Helping customers diagnose technical issues over the phone and speaking with them about installing hardware or software on their computers">
+      
+        </Nobody does it like Technology>
       </main>
 
       <Footer />
